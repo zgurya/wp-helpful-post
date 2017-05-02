@@ -1,0 +1,14 @@
+.wp-helpful-post{
+	display: table;
+}
+.wp-helpful-post .question, .wp-helpful-post .answers{
+	float: left;
+}
+.wp-helpful-post .answers span{
+	border: 1px solid #ccc;
+	padding: 5px 10px;
+	cursor: pointer;
+}
+.wp-helpful-post .question, .wp-helpful-post .answers span.yes{
+	margin-right: 20px;
+}

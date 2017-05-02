@@ -1,5 +1,6 @@
-.wp-helpful-post{
-	display: table;
+.wp-helpful-post .results{
+	clear: both;
+	margin-top: 40px;
 }
 .wp-helpful-post .question, .wp-helpful-post .answers{
 	float: left;
